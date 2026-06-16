@@ -45,4 +45,5 @@ jobs:
     #     gradle-version: '8.9'
     #
     # - name: Build with Gradle 8.9
+    #   working-directory: demo
     #   run: gradle build
